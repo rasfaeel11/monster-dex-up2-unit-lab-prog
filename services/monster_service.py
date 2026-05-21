@@ -1,6 +1,6 @@
 import models.banco_dados
 
-# Lambda function to calculate raw power
+# Função lambda para calcular o poder bruto
 calcular_poder_bruto = lambda atk, lvl: atk * lvl
 
 def elemento_eh_valido(elemento_nome):

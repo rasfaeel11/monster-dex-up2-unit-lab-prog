@@ -1,7 +1,7 @@
-# Tuple of valid elements
+# Tupla de elementos válidos
 ELEMENTOS_VALIDOS = ("Fogo", "Água", "Planta")
 
-# Catalog of 3 original monsters, one of each element, with 4 skills (tuple: (attack_name, base_damage))
+# Catálogo de 3 monstros originais, um de cada elemento, com 4 habilidades (tupla: (nome_ataque, dano_base))
 catalogo_criaturas = [
     {
         "nome": "Pyrilizard",
@@ -44,8 +44,8 @@ catalogo_criaturas = [
     }
 ]
 
-# Custom monsters created by the user
+# Monstros customizados criados pelo usuário
 monstros_customizados = []
 
-# Battle history logs
+# Histórico de batalhas
 historico_batalhas = []
